@@ -19,11 +19,11 @@ A modern Flutter-based e-commerce application specializing in men's fashion, fea
 
 | Home Screen | Product View |
 |-------------|--------------|
-| ![Home](https://i.ibb.co/YF8LGvpd/home-page.png) | ![Product](https://i.ibb.co/rfd6m1sg/shop-page.png) |
+| ![Home](https://i.ibb.co/4ZqKv0x0/home-page.jpg) | ![Product](https://i.ibb.co/DHfshk2f/shop-page.jpg) |
 
 | Cart | Profile Screen |
 |------|----------------|
-| ![Cart](https://i.ibb.co/fds0kjN8/cart-page.png) | ![Profile](https://i.ibb.co/jZ8YDXmc/peofile-page.png) |
+| ![Cart](https://i.ibb.co/rf6Xr82d/cart-page.jpg) | ![Profile](https://i.ibb.co/RGb24krb/peofile-page.jpg) |
 
 ## 🚀 Getting Started
 
