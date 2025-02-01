@@ -19,7 +19,7 @@ A modern Flutter-based e-commerce application specializing in men's fashion, fea
 
 | Home Screen | Product View | Cart | Profile Screen |
 |-------------|--------------|------|----------------|
-| ![Home](https://ibb.co/G4k5jgcM) | ![Product](https://ibb.co/k6m8xW1p) | ![Cart](https://ibb.co/XxqJ7c5y) | ![Profile](https://ibb.co/fGXWHwfh) |
+| ![Home](https://i.ibb.co/YF8LGvpd/home-page.png) | ![Product](https://i.ibb.co/rfd6m1sg/shop-page.png) | ![Cart](https://i.ibb.co/fds0kjN8/cart-page.png) | ![Profile](https://i.ibb.co/jZ8YDXmc/peofile-page.png) |
 
 ## 🚀 Getting Started
 
@@ -50,7 +50,7 @@ git clone https://github.com/emad60/men-fashion-app.git
 
 
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 - Frontend: Flutter
 
@@ -66,7 +66,7 @@ git clone https://github.com/emad60/men-fashion-app.git
 
 
 
-🔗 API Reference
+## 🔗 API Reference
 
 ```bash
 GET    /products       List all products
@@ -76,7 +76,7 @@ DELETE /users/{id}     Delete account
 ```
 
 
-🤝 Contributing
+## 🤝 Contributing
 
 
 - Fork the Project
@@ -90,12 +90,12 @@ DELETE /users/{id}     Delete account
 - Open a Pull Request
 
 
-📄 License
+## 📄 License
 
-Distributed under the MIT License. See LICENSE for more information.
+Distributed under the MIT License.
 
 
-📧 Contact
+## 📧 Contact
 
 Emad Al-Ghail - emadalghail60@gmail.com
 
