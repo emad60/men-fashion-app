@@ -19,11 +19,11 @@ A modern Flutter-based e-commerce application specializing in men's fashion, fea
 
 | Home Screen | Product View |
 |-------------|--------------|
-| ![Home](https://i.ibb.co/4ZqKv0x0/home-page.jpg) | ![Product](https://i.ibb.co/DHfshk2f/shop-page.jpg) |
+| ![Home](https://i.ibb.co/nK5hRWG/home-page.png) | ![Product](https://i.ibb.co/JjxPcHpG/shop-page.png) |
 
 | Cart | Profile Screen |
 |------|----------------|
-| ![Cart](https://i.ibb.co/rf6Xr82d/cart-page.jpg) | ![Profile](https://i.ibb.co/RGb24krb/peofile-page.jpg) |
+| ![Cart](https://i.ibb.co/k21xb28d/cart-page.png) | ![Profile](https://i.ibb.co/QFvQhVqr/profile-page.png) |
 
 ## 🚀 Getting Started
 
@@ -41,15 +41,15 @@ git clone https://github.com/emad60/men-fashion-app.git
 ```
 2. Install dependencies:
 ```bash
-    flutter pub get
+flutter pub get
 ```
 3. Start JSON Server (in separate terminal):
 ```bash
-    cd api && json-server --watch db.json --port 3000
+cd api && json-server --watch db.json --port 3000
 ```
 4. Run the app:
 ```bash
-    flutter run
+flutter run
 ```
 
 
@@ -102,6 +102,3 @@ Distributed under the MIT License.
 ## 📧 Contact
 
 Emad Al-Ghail - emadalghail60@gmail.com
-
-
-Project Link: https://github.com/emad60/men-fashion-app
