@@ -84,7 +84,7 @@ class _ShopScreenState extends State<ShopScreen> {
       height: 50,
       child: ListView(
         scrollDirection: Axis.horizontal,
-        children: ['All', 'Shirts', 'Pants', 'Shoes'].map((category) {
+        children: ['All', 'Shirts', 'Pants', 'Shoes','bags'].map((category) {
           return Padding(
             padding: EdgeInsets.symmetric(horizontal: 8),
             child: ChoiceChip(

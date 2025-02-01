@@ -15,20 +15,6 @@
       "password": "123",
       "image": "",
       "cart": []
-    },
-    {
-      "id": "bb93"
-    },
-    {
-      "id": "f137"
-    },
-    {
-      "id": "5ed4",
-      "username": "yousef",
-      "email": "yousef",
-      "password": "1234",
-      "image": "",
-      "cart": []
     }
   ],
   "products": [
@@ -64,51 +50,20 @@
       "price": 39.99,
       "category": "shoes",
       "image": "assets/shoes.jpg",
-      "sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
+      "sizesnum": [
+        32,
+        34,
+        38,
+        40
       ]
     },
     {
       "id": "4",
-      "name": "Slim Jeans",
-      "price": 59.99,
-      "category": "pants",
-      "image": "assets/jeans.jpg",
-      "sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ]
-    },
-    {
-      "id": "5",
-      "name": "Slim Jeans",
-      "price": 59.99,
-      "category": "pants",
-      "image": "assets/jeans.jpg",
-      "sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ]
-    },
-    {
-      "id": "6",
-      "name": "Slim Jeans",
-      "price": 59.99,
-      "category": "pants",
-      "image": "assets/jeans.jpg",
-      "sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ]
+      "name": "Cool bag",
+      "price": 15.99,
+      "category": "bags",
+      "image": "assets/bag.jpg"
+
     }
   ],
   "cart": []
