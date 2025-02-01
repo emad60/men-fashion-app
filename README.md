@@ -17,9 +17,13 @@ A modern Flutter-based e-commerce application specializing in men's fashion, fea
 
 ## 📸 Screenshots
 
-| Home Screen | Product View | Cart | Profile Screen |
-|-------------|--------------|------|----------------|
-| ![Home](https://i.ibb.co/YF8LGvpd/home-page.png) | ![Product](https://i.ibb.co/rfd6m1sg/shop-page.png) | ![Cart](https://i.ibb.co/fds0kjN8/cart-page.png) | ![Profile](https://i.ibb.co/jZ8YDXmc/peofile-page.png) |
+| Home Screen | Product View |
+|-------------|--------------|
+| ![Home](https://i.ibb.co/YF8LGvpd/home-page.png) | ![Product](https://i.ibb.co/rfd6m1sg/shop-page.png) |
+
+| Cart | Profile Screen |
+|------|----------------|
+| ![Cart](https://i.ibb.co/fds0kjN8/cart-page.png) | ![Profile](https://i.ibb.co/jZ8YDXmc/peofile-page.png) |
 
 ## 🚀 Getting Started
 
