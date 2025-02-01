@@ -19,7 +19,7 @@ A modern Flutter-based e-commerce application specializing in men's fashion, fea
 
 | Home Screen | Product View | Cart | Profile Screen |
 |-------------|--------------|------|----------------|
-| ![Home](https://ibb.co/G4k5jgcM/home-page.png) | ![Product](https://ibb.co/k6m8xW1p/product-page.png) | ![Cart](https://ibb.co/XxqJ7c5y/cart-page.png) | ![Profile](https://ibb.co/fGXWHwfh/profile-page.png) |
+| ![Home](https://ibb.co/G4k5jgcM) | ![Product](https://ibb.co/k6m8xW1p) | ![Cart](https://ibb.co/XxqJ7c5y) | ![Profile](https://ibb.co/fGXWHwfh) |
 
 ## 🚀 Getting Started
 
@@ -29,9 +29,11 @@ A modern Flutter-based e-commerce application specializing in men's fashion, fea
 - Node.js (for JSON Server)
 
 ### Installation
+
+
 1. Clone repository:
 ```bash
-git clone https://github.com/YOUR-USERNAME/men-fashion-app.git
+git clone https://github.com/emad60/men-fashion-app.git
 ```
 2. Install dependencies:
 ```bash
@@ -45,41 +47,57 @@ git clone https://github.com/YOUR-USERNAME/men-fashion-app.git
 ```bash
     flutter run
 ```
+
+
+
 🛠 Tech Stack
-1- Frontend: Flutter
 
-2- State Management: Provider
+- Frontend: Flutter
 
-3- Backend: JSON Server
+- State Management: Provider
 
-4- Authentication: Local Storage
+- Backend: JSON Server
 
-5- Image Handling: Image Picker
+- Authentication: Local Storage
 
-6- Navigation: Flutter Navigator 2.0
+- Image Handling: Image Picker
+
+- Navigation: Flutter Navigator 2.0
+
+
 
 🔗 API Reference
+
 ```bash
 GET    /products       List all products
 POST   /users          Create new user
 PATCH  /users/{id}     Update user profile
 DELETE /users/{id}     Delete account
 ```
+
+
 🤝 Contributing
-Fork the Project
 
-1- Create your Feature Branch (git checkout -b feature/AmazingFeature)
 
-2- Commit your Changes (git commit -m 'Add some AmazingFeature')
+- Fork the Project
 
-3- Push to the Branch (git push origin feature/AmazingFeature)
+- Create your Feature Branch (git checkout -b feature/AmazingFeature)
 
-4- Open a Pull Request
+- Commit your Changes (git commit -m 'Add some AmazingFeature')
+
+- Push to the Branch (git push origin feature/AmazingFeature)
+
+- Open a Pull Request
+
 
 📄 License
+
 Distributed under the MIT License. See LICENSE for more information.
 
+
 📧 Contact
+
 Emad Al-Ghail - emadalghail60@gmail.com
+
 
 Project Link: https://github.com/emad60/men-fashion-app
